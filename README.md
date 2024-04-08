@@ -2,7 +2,7 @@
 
 ## Description
 
-A study guide essentialy for students at a coding boot camp that helpsthem tackle HTML, CSS, Git, and JavaScript for the first time.
+A study guide essentialy for students at a coding boot camp that helps them tackle HTML, CSS, Git, and JavaScript for the first time.
 
 
 ## Installation
